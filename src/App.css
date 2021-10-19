@@ -1,0 +1,46 @@
+button:hover{
+    cursor: pointer;
+}
+
+.ListItems{
+    display: inline;
+}
+
+.TitleLink{
+    text-decoration: none;
+}
+
+.TitleLink:visited{
+    color: black;
+}
+
+.NavLink:visited{
+    color: black;
+}
+
+.NavLink:active{
+    background-color: #aaaaaa;
+}
+
+.BigTitle{
+    font-size: 50px;
+    text-align: center;
+}
+
+body{
+    background-color: #ddd;
+}
+
+.nav{
+    background-color: #bbbbbb;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.NavLink{
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
